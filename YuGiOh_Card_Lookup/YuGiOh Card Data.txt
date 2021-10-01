@@ -1,0 +1,14 @@
+SITE: https://Removed_for_Git_upload/%CARD_ID%
+SITE_ERROR: Removed for Git upload
+SPLIT_NAME: Removed for Git upload
+SPLIT_RARITY: Removed for Git upload
+SPLIT_PRICE: Removed for Git upload
+SPLIT_TYPE: Removed for Git upload
+SPLIT_ASPECT: Removed for Git upload
+SPLIT_PROPERTY: Removed for Git upload
+SPLIT_STARS: Removed for Git upload
+SPLIT_ATTACK: Removed for Git upload
+SPLIT_DEFENSE: Removed for Git upload
+SPLIT_TEXT: Removed for Git upload
+CARDS: 
+  DDS-001:P
